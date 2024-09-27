@@ -51,4 +51,4 @@ The latest iteration includes securing screws for larger models, located at the 
 
 These screws have a tapered section that you can use to secure larger miniatures in place.
 
-*TODO: Add animation of thumb screws*
+![ThumbScrews](https://github.com/layersafe/LayerSafeCase/blob/main/ThumbScrews%20(2).gif)
