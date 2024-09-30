@@ -52,7 +52,7 @@ Each miniature tray includes a locking plate that slides in along the long edge 
 
 The loose fit is intentional to make it easier to place and remove your miniatures. However, once the trays are installed into the case, the locking plates will be held firmly in place, ensuring your miniatures stay secure during transport.
 
-![ThumbScrews](https://github.com/layersafe/LayerSafeCase/blob/main/ThumbScrews%20(2).gif)
+![Minitrays](https://github.com/layersafe/LayerSafeCase/blob/main/MiniTrays.gif)
 
 ---
 
@@ -61,4 +61,4 @@ The latest iteration includes securing screws for larger models, located at the 
 
 These screws have a tapered section that you can use to secure larger miniatures in place.
 
-![Minitrays](https://github.com/layersafe/LayerSafeCase/blob/main/MiniTrays.gif)
+![ThumbScrews](https://github.com/layersafe/LayerSafeCase/blob/main/ThumbScrews%20(2).gif)
