@@ -56,11 +56,9 @@ Opening the case might require some force, as the clips are designed to be very 
 
 ### Securing Miniature Trays
 
-Each miniature tray includes a locking plate that slides in along the long edge of the tray. These plates should fit loosely into the designated slots on the tray.
+Each miniature tray includes a print in place hinge that opens and allows the minis to be securly slid in and out of the tray. ur miniatures stay secure during transport.
 
-The loose fit is intentional to make it easier to place and remove your miniatures. However, once the trays are installed into the case, the locking plates will be held firmly in place, ensuring your miniatures stay secure during transport.
-
-![Minitrays](https://github.com/layersafe/LayerSafeCase/blob/main/MiniTrays.gif)
+![Minitrays](https://github.com/layersafe/LayerSafeCase/blob/main/MiniTrays.gif) 
 
 ---
 
