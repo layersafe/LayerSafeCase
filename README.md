@@ -32,6 +32,14 @@ If you require additional storage, repeat the previous steps to add a second lay
 
 ---
 
+### 5. Add clip to lid
+Press the clip into the slot on the lid, you should hear and feel a click when it is inserted fully.
+
+![Step 5 - Lid Assembly](https://github.com/layersafe/LayerSafeCase/blob/main/Lid%20and%20Clip%20-%20Trim.gif)
+
+
+---
+
 ### 5. Slide the Trays into the Case and Attach the Lid
 Slide the trays into their designated slots, and then slide the lid onto the top of the case to complete the assembly.
 
