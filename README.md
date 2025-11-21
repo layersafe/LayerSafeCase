@@ -53,18 +53,3 @@ Follow steps 1–5 to assemble the other side of the case. Once complete, you sh
 Opening the case might require some force, as the clips are designed to be very secure. Pressing the pegs on either side of the clip will release it. Applying a bit of pressure might be necessary.
 
 ---
-
-### Securing Miniature Trays
-
-Each miniature tray includes a print in place hinge that opens and allows the minis to be securly slid in and out of the tray. ur miniatures stay secure during transport.
-
-![Minitrays](https://github.com/layersafe/LayerSafeCase/blob/main/MiniTrays.gif) 
-
----
-
-### Securing Larger Models with Thumb Screws
-The latest iteration includes securing screws for larger models, located at the base of the case. There is a threaded part that pushes through the bottom of the case, and a thumb screw part that screws down from inside.
-
-These screws have a tapered section that you can use to secure larger miniatures in place.
-
-![ThumbScrews](https://github.com/layersafe/LayerSafeCase/blob/main/ThumbScrews%20(2).gif)
